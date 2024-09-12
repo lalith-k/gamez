@@ -1,0 +1,20 @@
+﻿  Asteroids.cpp
+F:\CodingGames\Asteroids\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Asteroids.cpp')
+  
+F:\CodingGames\Asteroids\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Asteroids.cpp')
+  
+F:\CodingGames\Asteroids\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  (compiling source file 'Asteroids.cpp')
+  
+F:\CodingGames\Asteroids\Asteroids.cpp(29,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(29,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(30,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(30,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(133,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(151,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(163,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(163,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\CodingGames\Asteroids\Asteroids.cpp(167,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Asteroids.vcxproj -> F:\CodingGames\Asteroids\x64\Debug\Asteroids.exe
